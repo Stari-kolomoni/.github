@@ -18,17 +18,17 @@
 <div align="center">
     <span align="center">
         <img src="https://raw.githubusercontent.com/Stari-kolomoni/kolomon-designs/master/static/login-page-v3.png"
-             width="325" 
+             width="250" 
              alt="Stari Kolomoni login page UI mockup" />
     </span>
     <span align="center">
         <img src="https://raw.githubusercontent.com/Stari-kolomoni/kolomon-designs/master/static/MainPage.png"
-             width="325" 
+             width="250" 
              alt="Stari Kolomoni dashboard UI mockup" />
     </span>
     <span align="center">
         <img src="https://raw.githubusercontent.com/Stari-kolomoni/kolomon-designs/master/static/Entry_SloMissing.png"
-             width="325" 
+             width="250" 
              alt="Stari Kolomoni translation page UI mockup (Slovenian translation missing)" />
     </span>
 </div>
