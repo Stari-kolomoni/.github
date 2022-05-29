@@ -35,6 +35,6 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/Stari-kolomoni/kolomon-designs"><i>a few UI prototype mockups.</i></a>
+    <a href="https://github.com/Stari-kolomoni/kolomon-designs"><i>a few UI mockups.</i></a>
     <br><br>
 </div>
