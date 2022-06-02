@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <sup>but we're not quite there yet :disappointed:, the readme is disproportionately well done</sup>
+    <sup>but we're not quite there yet :disappointed:</sup>
 </p>
 
 ---
